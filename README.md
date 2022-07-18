@@ -61,35 +61,7 @@ This repository contains OpenCore EFI distributions and related files that can b
 - [ ] SideCar
     * Due to some T2 chip dependancies on MacPro7,1 and iMacPro1,1 SMBIOS
 
-# Screenshots
-## System Report
-![](/Images/aboutthismac.png)
-![](/Images/overview.png)
 
-## Memory
-![](/Images/memory1.png)
-![](/Images/memory2.png)
-
-## Audio
-![](/Images/audio.png)
-
-## Ethernet
-![](/Images/ethernet.png)
-
-## GPU
-![](/Images/graphics.png)
-
-## NVME
-![](/Images/NVMExpress.png)
-
-## USB
-![](/Images/usb.png)
-
-## PCI
-![](/Images/pci.png)
-
-# BIOS Settings
-WIP
 
 # config.plist Configuration
 ## PlatformInfo
